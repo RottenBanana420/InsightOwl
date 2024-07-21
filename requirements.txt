@@ -1,0 +1,19 @@
+# Core libraries
+langchain
+langchain_community
+langchain-ollama
+unstructured
+
+# Utility libraries
+libmagic
+python-magic
+pickle-mixin
+python-dotenv
+
+# Machine learning and embeddings
+faiss-cpu
+sentence-transformers
+ollama
+
+# Web framework
+streamlit
